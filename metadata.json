@@ -1,0 +1,5 @@
+{
+  "name": "VectorShift Pipeline Builder",
+  "description": "A professional node-based pipeline builder with React Flow, featuring dynamic text nodes, custom abstractions, and DAG validation.",
+  "requestFramePermissions": []
+}
